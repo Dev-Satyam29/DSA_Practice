@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0605-can-place-flowers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
