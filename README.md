@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3174-clear-digits) |
 ## Prefix Sum
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2974-minimum-number-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3731-find-missing-elements) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1833-maximum-ice-cream-bars) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
 | [2784-check-if-array-is-good](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2706-buy-two-chocolates) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
