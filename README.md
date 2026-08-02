@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0697-degree-of-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0819-most-common-word) |
+| [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0072-edit-distance) |
 | [0788-rotated-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0182-duplicate-emails) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
