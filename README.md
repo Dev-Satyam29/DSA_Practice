@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1512-number-of-good-pairs) |
+| [1629-slowest-key](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1732-find-the-highest-altitude](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1748-sum-of-unique-elements) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0944-delete-columns-to-make-sorted) |
 | [1108-defanging-an-ip-address](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1189-maximum-number-of-balloons) |
+| [1629-slowest-key](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1629-slowest-key) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2053-kth-distinct-string-in-an-array) |
