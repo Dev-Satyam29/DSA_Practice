@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
@@ -468,4 +469,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2029-stone-game-ix) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
