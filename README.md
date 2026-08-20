@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
 | [1544-make-the-string-great](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2000-reverse-prefix-of-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2833-furthest-point-from-origin) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3174-clear-digits) |
