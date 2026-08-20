@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0414-third-maximum-number) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -522,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0142-linked-list-cycle-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
