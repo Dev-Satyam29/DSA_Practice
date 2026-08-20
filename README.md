@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1331-rank-transform-of-an-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0605-can-place-flowers) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1386-cinema-seat-allocation](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1833-maximum-ice-cream-bars) |
