@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0697-degree-of-an-array) |
+| [0724-find-pivot-index](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
