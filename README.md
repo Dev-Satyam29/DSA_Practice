@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0054-spiral-matrix) |
+| [0134-gas-station](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0238-product-of-array-except-self) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
