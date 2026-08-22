@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0072-edit-distance) |
 | [0338-counting-bits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0338-counting-bits) |
+| [0413-arithmetic-slices](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0413-arithmetic-slices) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3090-maximum-length-substring-with-two-occurrences) |
