@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0091-decode-ways) |
 | [0338-counting-bits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0509-fibonacci-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0165-compare-version-numbers) |
 | [0402-remove-k-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0402-remove-k-digits) |
