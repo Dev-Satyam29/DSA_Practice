@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0054-spiral-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
@@ -435,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1346-check-if-n-and-its-double-exist) |
