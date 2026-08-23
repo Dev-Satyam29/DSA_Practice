@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0414-third-maximum-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
