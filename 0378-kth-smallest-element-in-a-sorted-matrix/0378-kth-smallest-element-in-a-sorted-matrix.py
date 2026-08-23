@@ -1,11 +1,17 @@
-class Solution:
-    def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
-        n=len(matrix)
-        row=n
-        col=len(matrix[0])
-        arr=[]
-        for i in range(row):
-            for j in range(col):
-                arr.append(matrix[i][j])
-        arr.sort()
-        return arr[k-1]
+class Solution(object):
+    def kthSmallest(self, matrix, k):
+        n = len(matrix)
+        l, r = matrix[0][0], matrix[-1][-1]
+        while l < r:
+            mid = (l + r) // 2
+            s = 0
+            c = n - 1
+            for row in matrix:
+                while c >= 0 and row[c] > mid:
+                    c -= 1
+                s += c + 1
+            if s < k:
+                l = mid + 1
+            else:
+                r = mid
+        return l
