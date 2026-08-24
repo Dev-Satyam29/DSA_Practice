@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0944-delete-columns-to-make-sorted) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1051-height-checker) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1051-height-checker) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1051-height-checker](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0624-maximum-distance-in-arrays) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1386-cinema-seat-allocation](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1710-maximum-units-on-a-truck) |
