@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2706-buy-two-chocolates](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2706-buy-two-chocolates) |
