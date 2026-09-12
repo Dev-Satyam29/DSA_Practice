@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1512-number-of-good-pairs) |
 | [1629-slowest-key](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1629-slowest-key) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1652-defuse-the-bomb](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1748-sum-of-unique-elements) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
+| [1652-defuse-the-bomb](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2269-find-the-k-beauty-of-a-number) |
