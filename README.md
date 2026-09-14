@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
