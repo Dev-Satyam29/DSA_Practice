@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0657-robot-return-to-origin) |
