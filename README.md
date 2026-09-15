@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0551-student-attendance-record-i) |
