@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0575-distribute-candies) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0503-next-greater-element-ii) |
 ## String
 |  |
 | ------- |
