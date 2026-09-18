@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0819-most-common-word) |
+| [0867-transpose-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0905-sort-array-by-parity) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0867-transpose-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2923-find-champion-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2923-find-champion-i) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1094-car-pooling) |
 | [2390-removing-stars-from-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2974-minimum-number-game) |
