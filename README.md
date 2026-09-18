@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0148-sort-list) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0165-compare-version-numbers) |
 | [0402-remove-k-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0402-remove-k-digits) |
