@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2029-stone-game-ix) |
@@ -651,4 +652,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
