@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2706-buy-two-chocolates](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2706-buy-two-chocolates) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2923-find-champion-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2923-find-champion-i) |
 ## Simulation
