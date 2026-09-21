@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0791-custom-sort-string) |
 | [0819-most-common-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0819-most-common-word) |
+| [0824-goat-latin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0917-reverse-only-letters) |
