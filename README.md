@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
