@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0027-remove-element) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0049-group-anagrams) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
 ## Bit Manipulation
 |  |
