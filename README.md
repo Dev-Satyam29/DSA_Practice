@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0318-maximum-product-of-word-lengths) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0413-arithmetic-slices) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0165-compare-version-numbers) |
 | [0316-remove-duplicate-letters](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0316-remove-duplicate-letters) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0318-maximum-product-of-word-lengths) |
 | [0402-remove-k-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0434-number-of-segments-in-a-string) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1386-cinema-seat-allocation) |
