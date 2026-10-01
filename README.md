@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0144-binary-tree-preorder-traversal) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0049-group-anagrams) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
