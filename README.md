@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0867-transpose-matrix) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1346-check-if-n-and-its-double-exist) |
