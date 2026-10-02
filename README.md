@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0697-degree-of-an-array) |
