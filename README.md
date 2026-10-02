@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
