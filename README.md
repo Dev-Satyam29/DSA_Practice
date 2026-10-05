@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0575-distribute-candies) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0888-fair-candy-swap) |
