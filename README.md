@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1544-make-the-string-great](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1544-make-the-string-great) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0917-reverse-only-letters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0944-delete-columns-to-make-sorted) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
