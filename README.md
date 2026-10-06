@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3904-smallest-stable-index-ii) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Hash Table
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Math
 |  |
 | ------- |
