@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
