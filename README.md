@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0318-maximum-product-of-word-lengths) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0414-third-maximum-number) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
