@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1629-slowest-key](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1629-slowest-key) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2029-stone-game-ix) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
 |  |
@@ -701,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Database
 |  |
@@ -718,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Minimax
 |  |
 | ------- |
@@ -736,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0145-binary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -748,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0145-binary-tree-postorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Interactive
 |  |
 | ------- |
@@ -785,4 +794,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
