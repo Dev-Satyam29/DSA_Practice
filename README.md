@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2029-stone-game-ix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2643-row-with-maximum-ones) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1094-car-pooling) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3069-distribute-elements-into-two-arrays-i) |
