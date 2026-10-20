@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2000-reverse-prefix-of-word) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3033-modify-the-matrix) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3643-flip-square-submatrix-vertically) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
