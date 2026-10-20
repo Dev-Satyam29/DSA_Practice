@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2923-find-champion-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3033-modify-the-matrix) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Simulation
 |  |
 | ------- |
