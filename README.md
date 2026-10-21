@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
