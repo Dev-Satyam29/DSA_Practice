@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0566-reshape-the-matrix) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1480-running-sum-of-1d-array) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0645-set-mismatch) |
