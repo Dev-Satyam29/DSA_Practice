@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3536-maximum-product-of-two-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3870-count-commas-in-range) |
@@ -728,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Segment Tree
 |  |
 | ------- |
