@@ -1,11 +1,10 @@
 class Solution:
     def maximizeSum(self, nums: List[int], k: int) -> int:
-        nums.sort()
-        n=len(nums)
+        max_ele=max(nums)
         ans=0
         while k>0:
-            ans+=nums[n-1]
-            nums[n-1]+=1
+            ans+=max_ele
+            max_ele+=1
             k-=1
         return ans
         
