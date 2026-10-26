@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2679-sum-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2643-row-with-maximum-ones) |
+| [2679-sum-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2923-find-champion-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2965-find-missing-and-repeated-values) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1094-car-pooling) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2390-removing-stars-from-a-string) |
+| [2679-sum-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3174-clear-digits) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2418-sort-the-people) |
+| [2679-sum-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2784-check-if-array-is-good) |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2679-sum-in-a-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2679-sum-in-a-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2974-minimum-number-game) |
 ## Merge Sort
