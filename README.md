@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [4006-count-valid-prefixes](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/4006-count-valid-prefixes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3852-smallest-pair-with-different-frequencies) |
+| [4006-count-valid-prefixes](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/4006-count-valid-prefixes) |
 ## Hash Table
 |  |
 | ------- |
