@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3033-modify-the-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3069-distribute-elements-into-two-arrays-i) |
