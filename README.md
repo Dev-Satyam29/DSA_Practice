@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1386-cinema-seat-allocation) |
 | [2032-two-out-of-three](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2032-two-out-of-three) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3513-number-of-unique-xor-triplets-i) |
