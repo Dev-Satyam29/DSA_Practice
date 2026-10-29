@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [4006-count-valid-prefixes](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/4006-count-valid-prefixes) |
 ## Prefix Sum
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Binary Search
@@ -769,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -820,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0145-binary-tree-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -828,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -873,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
