@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3643-flip-square-submatrix-vertically) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3643-flip-square-submatrix-vertically) |
+| [3665-twisted-mirror-path-count](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
