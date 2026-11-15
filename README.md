@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3665-twisted-mirror-path-count](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Dev-Satyam29/HackWithInfy_LNCT-26/tree/master/2029-stone-game-ix) |
